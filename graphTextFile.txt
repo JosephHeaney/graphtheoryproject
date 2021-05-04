@@ -1,0 +1,4 @@
+b*b.a b bba abba a
+a.(a.b).b* a bb ab b
+a.b a b ab 
+a*b*ab aba a ba ab
